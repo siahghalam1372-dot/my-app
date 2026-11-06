@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PocketEspresso",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Espresso",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "/pocketespresso",
+  "description": "Interactive Italian Learning App",
+  "lang": "en"
+}
